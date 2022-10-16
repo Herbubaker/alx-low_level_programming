@@ -4,9 +4,9 @@
 /**
  * main - Entry point
  * 
- * Positive or Negative
+ *Positive or Negative
  *
- * Return: Always 0 (success).
+ * Return: Always 0 (success)
  */
 
 int main(void)
