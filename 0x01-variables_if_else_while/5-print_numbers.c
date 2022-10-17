@@ -13,3 +13,4 @@ int main(void)
 	if n(0 - 9)
 		printf("%d all single digit numbers of base 10 starting from 0\n", n)
 	return (0);
+}
