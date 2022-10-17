@@ -10,7 +10,7 @@ int main(void)
 {
 	int n;
 
-	if (n <= 9)
+	for (n = 0; n <= 9; n++)
 		printf("%d all single digit numbers of base 10 starting from 0\n", n)
 	return (0);
 }
