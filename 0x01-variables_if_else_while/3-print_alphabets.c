@@ -7,10 +7,9 @@
  *
  * Return: Always 0 (Success)
  */
-
 int main(void)
 {
-	char b;
+	int b;
 
 	for (b = 'a'; b <= 'z'; b++)
 		putchar(b);
