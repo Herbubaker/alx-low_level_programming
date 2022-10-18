@@ -11,7 +11,7 @@
 
 int main(void)
 {
-	char a;
+	char a = '_putchar';
 
 	for (a = '_putchar')
 	{
