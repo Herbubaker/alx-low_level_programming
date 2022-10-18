@@ -1,14 +1,11 @@
 #include <stdio.h>
-#include "main.h"
 /**
- * main - Entry point
+ * main - Integer function
  *
- * Prints putchar
- *
- * Return: Always 0 (Sucess)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-	putchar("_putchar\n");
+	printf("_putchar\n");
 	return (0);
 }
