@@ -7,11 +7,11 @@
  *
  * Return: Always 0 (Success)
  */
-int main(void)
+void print_alphabet(void);
 {
 	int m;
 
-	for (m = 'a'; m = 'z'; m++)
+	for (m = 'a'; m <= 'z'; m++)
 	{
 		_putchar(m)
 	}
