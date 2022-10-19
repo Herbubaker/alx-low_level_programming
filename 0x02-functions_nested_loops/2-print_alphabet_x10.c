@@ -1,6 +1,8 @@
 #include "main.h"
 /**
- * print_alphabet_x10 - Entry
+ * print_alphabet - Entry point
+ * print alphabet 10 times
+ *
  * Return: Always (Success)
  */
 void print_alphabet_x10(void)
