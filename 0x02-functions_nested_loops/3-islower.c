@@ -2,7 +2,7 @@
 #include "main.h"
 /**
  * _islower - Entry
- * checks for lowercase character
+ * @c: Function arg
  *
  * Return: 0 Always (Success)
  */
